@@ -24,7 +24,7 @@ in this example we will use home.dart as first widget, and import getSendDataBet
 
 <h2>Note 2</h2>
 <p>new Flexible<br>
-框格会慢慢根据里面的字体数量 慢慢变款</p> <br>
+框格会慢慢根据里面的字体数量 慢慢变宽</p> <br>
 <p>New container  <br>类似于html的div</p>  <br>
 <p>New row   <br>里面的子栏目 将会 上下一个一个排列 </p><br>
 <p>New column  <br>里面的子栏目 将会 左右一个一个排列 </p><br>
